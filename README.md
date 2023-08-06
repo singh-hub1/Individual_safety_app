@@ -7,11 +7,6 @@ it is simple to implement,easy to understand.
 
 
 
-[<img src="media/womenSafety.png" />](https://t.me/vinayak_09)
-
-
-
-
 
 ## Features
 
