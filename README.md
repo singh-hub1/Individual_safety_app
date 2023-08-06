@@ -32,24 +32,14 @@ Hit Run Button !
 
 #Screenshots
 
-------------![WhatsApp Image 2023-08-07 at 00 16 42 (1)](https://github.com/singh-hub1/Individual_safety_app/assets/63784168/7c049055-25b0-46fc-af69-e9e216077157)
+![WhatsApp Image 2023-08-07 at 00 16 42 (1)](https://github.com/singh-hub1/Individual_safety_app/assets/63784168/7c049055-25b0-46fc-af69-e9e216077157)
 --------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
 ![WhatsApp Image 2023-08-07 at 00 16 42 (2)](https://github.com/singh-hub1/Individual_safety_app/assets/63784168/8ba0bc12-a292-40a2-8be6-e6465c04f410)
 
 ---------------------------------------------------------------------------------------------
-
-
-
 ![WhatsApp Image 2023-08-07 at 00 16 42](https://github.com/singh-hub1/Individual_safety_app/assets/63784168/bf3dc419-1fb1-49ed-a9be-c33f1d401551)
 
 ------------------------------------------------------------------------------------------------
-
-
 ![WhatsApp Image 2023-08-07 at 00 18 43](https://github.com/singh-hub1/Individual_safety_app/assets/63784168/4d1c904c-fc21-45e4-aa5b-e61ccd957bd8)
 
 
