@@ -1,9 +1,8 @@
 # Individual Safety Application
 ## _Feel Safe Everywhere_
+Worked on an Android Based Application that focuses on Individual's Safety and helps the person in trouble. Functioning- The individual is supposed
+to wag or shake their phone and immediately after this movement his/her location will be shared with the first person in their contact list.
 
-
-Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
 
 
 
